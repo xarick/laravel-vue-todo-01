@@ -1,5 +1,6 @@
 # Install
 composer install
+
 composer update
 
 # Screenshots
